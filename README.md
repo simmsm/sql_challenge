@@ -1,9 +1,10 @@
 # sql_challenge
 
-Requirements
-Data Modeling
-Entity Relationship Diagram is included or table schemas provided for all tables 
+
+Data Modeling:
+Entity Relationship Diagram (ERD) 
 ![ERD Diagram](QuickDBD-export.png)
+
 Data Engineering:
 All required columns are defined for each table 
 Columns are set to the correct data type 
